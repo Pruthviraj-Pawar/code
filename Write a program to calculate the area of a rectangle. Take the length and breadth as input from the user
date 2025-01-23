@@ -1,0 +1,6 @@
+length = int(input("Enter thr length: "))
+breadth = int(input("Enter the breadth :"))
+
+area_of_reactangle = length*breadth
+
+print(area_of_reactangle)
