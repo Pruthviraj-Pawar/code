@@ -1,0 +1,7 @@
+str = "Namaskar"
+reverse_string = ""
+
+for char in str:
+    reverse_string = char + reverse_string  # Add each character to the front
+
+print(reverse_string)
