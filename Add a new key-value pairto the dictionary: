@@ -1,0 +1,5 @@
+info = {"Name":"Samarth","Age":25}
+
+info.update({"subject":"math"})
+
+print(info)
